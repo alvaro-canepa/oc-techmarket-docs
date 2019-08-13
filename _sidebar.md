@@ -1,0 +1,7 @@
+- Getting started
+    - [Install](install.md)
+- Banners
+    - [Overview](banners/)
+    - [Configuration](banners/config.md)
+    - [Size](banners/size.md)
+    - [Examples](banners/examples.md)
