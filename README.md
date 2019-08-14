@@ -17,30 +17,24 @@ Techmarket is an Ultimate Responsive OctoberCMS Theme that is extremely customiz
 ### Detect Shopaholic paid plugins (optional)  
 The theme detects for paid plugins.  
   
-![Search](http://octobercms.com/storage/app/uploads/public/5a8/fdf/b43/5a8fdfb436a21181464453.png)  
-  
-![Properties](http://octobercms.com/storage/app/uploads/public/5a2/7ab/bac/5a27abbac5d46721795468.png)  
-  
-![Popularity](http://octobercms.com/storage/app/uploads/public/5aa/a33/c4c/5aaa33c4c120a189686738.png)  
-  
-![Accessories](http://octobercms.com/storage/app/uploads/public/5aa/a34/ad0/5aaa34ad0ce8d130588042.png)  
-  
-![Related Products](http://octobercms.com/storage/app/uploads/public/5a7/6f8/c63/5a76f8c636237430372287.png)  
-  
-![Reviews](http://octobercms.com/storage/app/uploads/public/5a7/5d1/319/5a75d1319d016102304425.png)  
-  
-![Viewed Products](http://octobercms.com/storage/app/uploads/public/5ab/261/2a5/5ab2612a5a740717075593.png)  
-  
+![Thumb - Search](http://octobercms.com/storage/app/uploads/public/5a8/fdf/b43/5a8fdfb436a21181464453.png)
+![Thumb - Properties](http://octobercms.com/storage/app/uploads/public/5a2/7ab/bac/5a27abbac5d46721795468.png)
+![Thumb - Popularity](http://octobercms.com/storage/app/uploads/public/5aa/a33/c4c/5aaa33c4c120a189686738.png)
+![Thumb - Accessories](http://octobercms.com/storage/app/uploads/public/5aa/a34/ad0/5aaa34ad0ce8d130588042.png)
+![Thumb - Related Products](http://octobercms.com/storage/app/uploads/public/5a7/6f8/c63/5a76f8c636237430372287.png)
+![Thumb - Reviews](http://octobercms.com/storage/app/uploads/public/5a7/5d1/319/5a75d1319d016102304425.png)
+![Thumb - Viewed Products](http://octobercms.com/storage/app/uploads/public/5ab/261/2a5/5ab2612a5a740717075593.png)
   
   
 ### TODO  
 This plugins must be added as optional in next releases  
 
-![Filter](http://octobercms.com/storage/app/uploads/public/5aa/a34/75d/5aaa3475d116d396856315.png)  
-  
-![Compare](http://octobercms.com/storage/app/uploads/public/5aa/816/672/5aa81667259d2791101102.png)  
-  
-![Tags](http://octobercms.com/storage/app/uploads/public/5aa/a33/7f4/5aaa337f4eaa9620896170.png)  
+![Thumb - Filter](http://octobercms.com/storage/app/uploads/public/5aa/a34/75d/5aaa3475d116d396856315.png)
+![Thumb - Compare](http://octobercms.com/storage/app/uploads/public/5aa/816/672/5aa81667259d2791101102.png)
+![Thumb - Tags](http://octobercms.com/storage/app/uploads/public/5aa/a33/7f4/5aaa337f4eaa9620896170.png)
+![Thumb - Coupons](https://d2f5cg397c40hu.cloudfront.net/storage/app/uploads/public/optimized/local/3bf/124/6ec3bf1246ece48edd874f3c7c09a33331c.png)
+![Thumb - Wish List](https://d2f5cg397c40hu.cloudfront.net/storage/app/uploads/public/optimized/local/9c8/825/93c9c882593c9216a33f876627a8eef73d7.png)
+![Thumb - Labels](https://d2f5cg397c40hu.cloudfront.net/storage/app/uploads/public/optimized/local/e26/08f/530e2608f5308e0909d2ba33c296f5acce4.png)
   
   
 ### Technology  
