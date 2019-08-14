@@ -8,13 +8,21 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <!--<link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">-->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-
+  <style type="text/css">
+    img[alt=Prepros] {
+      max-width: 25px;
+    }
+    img[alt*=Thumb] {
+      max-width: 49%;
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'TechMarket',
+      logo: 'https://i.imgur.com/2pNzJ6e.png',
       repo: '',
       loadSidebar: true,
       subMaxLevel: 3
@@ -22,5 +30,6 @@
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-twig.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-sass.min.js"></script>
 </body>
 </html>

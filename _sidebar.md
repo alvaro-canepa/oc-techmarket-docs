@@ -1,5 +1,6 @@
 - Getting started
     - [Install](install.md)
+    - [Configuration](config.md)
 - Banners
     - [Overview](banners/)
     - [Configuration](banners/config.md)
