@@ -1,7 +1,8 @@
 ![TechMarket](https://i.imgur.com/2pNzJ6e.png)
 ----------  
   
-## TechMarket  
+![Cover](https://d2f5cg397c40hu.cloudfront.net/storage/app/uploads/public/optimized/local/97e/e51/f4897ee51f486739ecf32f954a9f2ada004.png)
+
 ### Multi-demo & Electronics Store eCommerce OctoberCMS Theme  
 Techmarket is an Ultimate Responsive OctoberCMS Theme that is extremely customizable, easy to use and fully responsive. It comes with extremely beautiful design for wide screen resolution.  
   
